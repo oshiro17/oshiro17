@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="https://github.com/oshiro17/Nine-777/">
-    <img src="https://komarev.com/ghpvc/?username=oshiro17" alt="Nine-777" />
+  <a href="https://github.com/oshiro17">
+    <img src="https://komarev.com/ghpvc/?username=oshiro17" alt="oshiro17" />
   </a>
   <a href="https://github.com/oshiro17">
     <img height="20" src="https://img.shields.io/github/followers/oshiro17?label=follow&logo=github&style=flat" />
