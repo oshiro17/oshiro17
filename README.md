@@ -35,18 +35,8 @@
 
 ### 📂 **My Repositories**
 
-1. **[ft_printf](https://github.com/oshiro17/ft_printf)**  
-   - C言語でのprintf関数の再実装を行ったプロジェクトです。
+1. **[Avalonページ](https://oshiro17.github.io/avalon/)**  
+   - 人狼より面白い人狼ゲーム。
 
-2. **[get_next_line](https://github.com/oshiro17/get_next_line)**  
-   - C言語でのファイル読み込み関数の実装を行ったプロジェクトです。
-
-3. **[push_swap](https://github.com/oshiro17/push_swap)**  
-   - スタックソートアルゴリズムの実装を行ったプロジェクトです。
-
-4. **[so_long](https://github.com/oshiro17/so_long)**  
-   - 2Dゲームの開発を行ったプロジェクトです。
-
-6. **[oshiro17.github.io](https://github.com/oshiro17/oshiro17.github.io)**  
-   - GitHub Pagesを利用した個人サイトのソースコードを管理しているリポジトリです。
-
+2. **[ののかサイト](https://oshiro17.github.io/)**  
+   - おおしろののかの個人サイトです。
