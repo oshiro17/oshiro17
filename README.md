@@ -34,7 +34,8 @@
 ### 📂 **My Repositories**
 
 1. **[Avalonページ](https://oshiro17.github.io/avalon/)**  
-   - 人狼より面白い人狼ゲーム。
+   - 人狼より面白い人狼ゲーム。いいアプリがなく不便だったので、html css jsで最低限の機能で作りました。
+
 
 2. **[ののかサイト](https://oshiro17.github.io/)**  
-   - おおしろののかの個人サイトです。面白半分で作りました。
+   - next.jsを学ぶために練習として作りました。
