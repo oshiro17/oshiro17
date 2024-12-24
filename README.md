@@ -5,7 +5,6 @@
 - **スキルセット**: C / C++
 - **現在学んでいること**: next.js / flutter / react 
 ### 📫 **連絡先**
-- **プロフィールサイト**: [ののかサイト](https://oshiro17.github.io)
 - **Twitter**: [@ora_nonoka](https://twitter.com/ora_nonoka)
 - **mail**: nonokapiano@icloud.com
 
@@ -38,4 +37,4 @@
    - 人狼より面白い人狼ゲーム。
 
 2. **[ののかサイト](https://oshiro17.github.io/)**  
-   - おおしろののかの個人サイトです。
+   - おおしろののかの個人サイトです。面白半分で作りました。
