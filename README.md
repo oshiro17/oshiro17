@@ -2,7 +2,12 @@
 
 ### 👤 **プロフィール**
 - **名前**: おおしろ ののか
-- **スキルセット**: C / C++
+- **年齢**: 21歳
+- **スキルセット**:
+-
+-
+-
+- C / C++
 - **現在学んでいること**: next.js / flutter / react 
 ### 📫 **連絡先**
 - **Twitter**: [@ora_nonoka](https://twitter.com/ora_nonoka)
@@ -39,3 +44,4 @@
 
 2. **[ののかサイト](https://oshiro17.github.io/)**  
    - next.jsを学ぶために練習として作りました。
+   - 
