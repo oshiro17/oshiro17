@@ -5,7 +5,7 @@
 - **生年月**: 2003年8月 現在21
 - **スキルセット**: C / C++ 
 - **現在学んでいること**: Next.js / Flutter / React
-- **趣味**:ドライブ / ピアノ / クワガタ /編み物　
+- **趣味**:ドライブ / ピアノ / クワガタ /　編み物　
 
 ### 📫 **連絡先**
 - **Twitter**: [@ora_nonoka](https://twitter.com/ora_nonoka)
@@ -33,7 +33,7 @@
 ### 📂 **My Public Repositories**
 
 1. **[Avalonページ](https://oshiro17.github.io/avalon/)**  
-   - 人狼より面白い人狼ゲーム。いいアプリがなく不便だったので、HTML / CSS / JavaScriptで最低限の機能で作りました。
+   - 人狼より面白い人狼ゲーム。アプリがなかったので、HTML / CSS / JavaScriptで最低限の機能で作りました。
 
 2. **[ののかサイト](https://oshiro17.github.io/)**  
    - Next.jsを学ぶために練習として作りました。
