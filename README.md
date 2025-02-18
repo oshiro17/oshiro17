@@ -37,6 +37,14 @@
 
 2. **[ののかサイト](https://oshiro17.github.io/)**  
    - Next.jsを学ぶために練習として作りました。
+2. #卒業文集
+   - デジタル卒業文集を作りました。
+   - **[(APP STORE)インストールはこちら](https://apps.apple.com/jp/app/%E5%8D%92%E6%A5%AD%E6%96%87%E9%9B%86/id6741571462)**
+    - もしくは、appstoreで卒業文集と検索！
+     
+     ![名称未設定のデザイン](https://github.com/user-attachments/assets/8237479b-94a7-44fe-b25b-26e98525711d)
+
+
 
 
 ### 📘 **42Tokyoで取り組んんだ課題**
