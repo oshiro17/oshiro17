@@ -100,14 +100,19 @@
 
 
 #### **minishell**
-- Bashの簡易版を実装し、リダイレクトやパイプの動作を再現。
-- シグナルや`readline`ライブラリを活用。
+- Bashの簡易版をC言語で実装。
 - チーム開発を経験。
+- 字句解析／構文解析によるコマンドパーサ設計
+- fork／execve／wait を用いたプロセス管理
+- pipe／dup2 によるパイプ処理とリダイレクト
+- cd、export、unset などビルトインコマンドの再現
+- sigaction を用いた Ctrl-C／SIGQUIT ハンドリング
+- GNU Readline 連携による行編集・履歴機能
 
 #### **minirt**
 - レイトレーシングを実装し、3D画像を生成。
 - ベクトル演算や光学効果の計算を使ってのレンダリング。
-- 
+  
 #### **inception**
 - Docker Composeを利用して、(Nginx、WordPress、MariaDBなど）をコンテナとして構築。
 
