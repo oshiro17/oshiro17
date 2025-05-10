@@ -44,7 +44,7 @@
    - プライバシーポリシー利用規約の作成
    - データベースでの情報を少なくするために設計を工夫した。
   
-   -    - **[(APP STORE)インストールはこちら](https://apps.apple.com/jp/app/pi-racer/id6742538447)**
+   - **[(APP STORE)インストールはこちら](https://apps.apple.com/jp/app/%E5%8D%92%E6%A5%AD%E6%96%87%E9%9B%86/id6741571462)**
     - もしくは、appstoreで卒業文集と検索！
      
      ![名称未設定のデザイン](https://github.com/user-attachments/assets/8237479b-94a7-44fe-b25b-26e98525711d)
@@ -54,7 +54,7 @@
    - 計算が早いふりができるし、円周率の暗記ができます
    -  ネイピア数も対応していますー❤️
    -  円周率が答えになるように計算問題を出すロジックが大変でした。！
-    -    - **[(APP STORE)インストールはこちら](https://apps.apple.com/jp/app/%E5%8D%92%E6%A5%AD%E6%96%87%E9%9B%86/id6741571462)**
+    -    - **[(APP STORE)インストールはこちら](https://apps.apple.com/jp/app/pi-racer/id6742538447)**
   
  
 
