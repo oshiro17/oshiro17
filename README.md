@@ -28,8 +28,11 @@
 | **2020-2022**| 角川ドワンゴ学園N高等学校               |
 | **2022-2024**| 42Tokyo            |
 
+### 📂 **42Tokyoについて**
+ 玉木チャンネルにて、４２代表して、インタビューを受けました！
 
-
+**[ウワサの 42Tokyo に玉木雄一郎が潜入！](https://youtu.be/bxll--eVaSY?si=_-HajbQ9iXfx54gx)**
+![たまきチャンネル]()
 ### 📂 **My Public Repositories**
 
 1. **[Avalonページ](https://oshiro17.github.io/avalon/)**  
