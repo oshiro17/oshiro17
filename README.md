@@ -1,164 +1,87 @@
-## 📄 **Resume**
+# Nonoka Oshiro (おおしろ ののか)
+現在は[42Tokyo](https://42tokyo.jp/) にてコンピュータサイエンスから（メモリ管理、プロセス、並行処理）から、実用的なWeb・モバイルアプリ開発、画像認識、ハードウェア制御まで幅広く取り組んでいます。
 
-### 👤 **プロフィール**
-- **名前**: おおしろ ののか
-- **生年月**: 2003年8月 現在21
-- **スキルセット**: C / C++ 
-- **現在学んでいること**: Next.js / Flutter / React
-- **趣味**:三線 / ピアノ / クワガタ /　編み物　
+## 📂 42Tokyoについて
+- **インタビュー出演:** 「国民民主党 玉木雄一郎チャンネル」にて、42Tokyoの学生としてインタビューを受けました。
+- **動画:** [ウワサの 42Tokyo に玉木雄一郎が潜入](https://youtu.be/bxll--eVaSY?si=_-HajbQ9iXfx54gx)
 
-### 📫 **連絡先**
-- **Twitter**: [@ora_nonoka](https://twitter.com/ora_nonoka)
-- **mail**: nonokapiano@icloud.com
+## 👤 Profile
+- **Age:** 22 (2003/08)
+- **Location:** 沖縄県糸満市在住📍
+- **Interests:** 釣り/ 三線 / ピアノ / クワガタ / 編み物 /
+- **Instagram:** [@ora_nonoka](https://www.instagram.com/ora_nonoka)
 
-
-
-### 💼 **職務経験**
-| 期間          | 職種                                      |
-|---------------|-------------------------------------------|
-| **2019-2020** 17歳| びっくりドンキー アルバイト（接客、調理補助、コミュニケーション能力を鍛えた） |
-| **2020-2021** 18歳| ローソン 店員（レジ、品出し、発注、コミュニケーション能力を鍛えた） |
-| **2022-2023** 19歳| 個別指導塾講師（中学生の数学を担当。一人一人に合った指導を意識し、基礎知識をしっかり身につけられるように指導）  |
-| **2023-2024** 20歳| 株式会社Inner Resource インターン（Web開発：React / Node.js)   |
-
-### 🎓 **学歴**
-| 期間          | 学校名                                   |
-|---------------|-------------------------------------------|
-| **2019-2020**| 沖縄県立向陽高校                         |
-| **2020-2022**| 角川ドワンゴ学園N高等学校               |
-| **2022-2024**| 42Tokyo            |
-
-### 📂 **42Tokyoについて**
- 玉木チャンネルにて、インタビューを受けました！
-![たまきチャンネル](/a.png)
-**[ウワサの 42Tokyo に玉木雄一郎が潜入！](https://youtu.be/bxll--eVaSY?si=_-HajbQ9iXfx54gx)**
-### 📂 **My Public Repositories**
-
-1. **[Avalonページ](https://oshiro17.github.io/avalon/)**  
-   - 人狼より面白い人狼ゲーム。アプリがなかったので、HTML / CSS / JavaScriptで最低限の機能で作りました。
-
-2. **[ののかサイト](https://oshiro17.github.io/)**  
-   - Next.jsを学ぶために練習として作りました。
-3. **iosアプリ #卒業文集**
-   - デジタルの卒業文集をflutter×firebaseで開発
-   - firebaseへのアクセス回数を減らす工夫（画面描画時に情報取得を毎回するのではなく」アプリ立ち上げたときかリロードボタン押されたときだけ。アプリ立ち上げ時もキャッシュがあればキャッシュを使う）
-   - オフライン時セグフォしないようなエラー処理
-   - プライバシーポリシー利用規約の作成
-   - データベースでの情報を少なくするために設計を工夫した。
-   - 早く完成させたくて、firebaseを使いましたが、投稿・コメント・リアクションをそれぞれ独立したコレクションに分割し、正規化を意識した浅い階層のキー構造にすることで、将来 RDB へ移行しても JOIN が組みやすい――さらに、ユーザー数の増加に応じてクラウド SQL サーバーへスムーズに載せ替えられるように設計しています。
-  
-   **[(APP STORE)インストールはこちら](https://apps.apple.com/jp/app/%E5%8D%92%E6%A5%AD%E6%96%87%E9%9B%86/id6741571462)**
-   もしくは、appstoreで卒業文集と検索！
-     
-     ![名称未設定のデザイン](https://github.com/user-attachments/assets/8237479b-94a7-44fe-b25b-26e98525711d)
-
-4. **iosアプリ piracer**
-   - ただの計算アプリ。と思いきや答えは円周率を打つと正解になるようになっている
-   - 計算が早いふりができるし、円周率の暗記ができます
-   -  ネイピア数も対応していますー❤️
-   -  円周率が答えになるように計算問題を出すロジックが大変でした。！
-       **[(APP STORE)インストールはこちら](https://apps.apple.com/jp/app/pi-racer/id6742538447)**
-  
- 5. **Webアプリ TimeCapsule**  
-   - 指定した日時に、自動でメールを送信するタイムカプセルアプリを個人開発。  
-   - Node.jsとExpressでサーバーを構築し、SQLiteでメッセージを管理。  
-   - `node-cron`でスケジューリング処理、`nodemailer`でメール送信を実装。  
-   - フロントはHTML/CSSのみでシンプルに設計し、グローバルIPによる外部公開も実現。  
-   - 自宅サーバーからの外部アクセスに挑戦し、**ファイアウォールやルーターのポートフォワーディング設定まで自力で対応**。  
-   - 実用性と学習要素の両立を目指したプロジェクト。  
- **[リポジトリ](https://github.com/oshiro17/TimeCapsule)**
-
- 5. **Webアプリ 社内むけ会食設定アプリ**  
-
-| 項目 | 内容 |
-|------|------|
-| **開発目的** | インターン（Tech Jam -REAL-ca アドバンス-） |
-| **開発期間** | 2025年3月10日 〜 3月14日（5日間） |
-| **開発環境** | Next.js / TypeScript / Tailwind CSS<br>pnpm / ESLint / Prettier / Stylelint / GitHub / Vercel |
-| **プロダクト説明 / URL** | 社内会食を簡単に予約・共有できる Web アプリ。<br>チャット形式で条件入力 → ホットペッパー API で店舗提案 → 予約情報をポスター形式で表示・SNS 共有が可能。<br>GitHub: <https://github.com/NakajiZaiLFC/hello-tech-jam><br>スライド: <https://github.com/oshiro17/tech-jam-image> |
-| **開発背景・課題** | 曖昧な指示をユーザーインタビューで具体化し、情報共有と操作性を徹底的に最適化 |
-| **こだわり・工夫点** | - ユーザー中心設計（チャット形式入力・ポスター自動生成）<br>- Tailwind CSS によるシンプルで直感的な UI<br>- 5 日間という短期間でプロトタイプ完成<br>- Git の競合回避と画面構造の早期共有<br>- レスポンシブ対応、資料スライドの作成も担当 |
-| **役割** | - UI 画面設計・実装、ポスター生成機能<br>- スライド構成・発表の一部担当 |
-
-### 📘 **42Tokyoで取り組んんだ課題**
-
-#### **cpp_module**
-[09リポジトリ](https://github.com/oshiro17/cpp09)
-- C++の基本から高度な概念までを学習するモジュール群を完了。
-- オブジェクト指向設計の原則を理解し、保守性の高いコードを実装。
-
-####　**TOYOTA × 42Tokyo 自動運転ミニカーバトル**
-- Raspberry Pi + カメラ・センサーでの制御（Python）-
-- ノイズ除去・異常検知・安定化処理などに工夫 -
-- 限られた環境での最適化、徹夜でのチームでの試行錯誤経験。-
-
-
-#### **Libft**
-- 標準Cライブラリの一部を再実装（文字列、メモリ、リスト操作など）。
-- Makefileの依存関係管理やNULLチェックを徹底。
-- テストツールを活用し、メモリリークやセグメンテーションフォルトを解消。
-
-#### **ft_printf**
-- `printf`関数を再現し、可変長引数とフォーマット指定の理解を深める。
-- `Makefile`を用いたライブラリ連携の実装を学習。
-- テストツールを利用してフォーマット処理を検証。
-
-#### **get_next_line**
-- ファイルディスクリプタを使用し、1行ずつデータを読み込む関数を実装。
-- メモリ管理を徹底し、リークのないコード作成に注力。
-
-#### **Born2beroot**
-- 仮想マシン上でLinuxシステムを構築、セキュリティポリシー設定を実施。
-- システム管理コマンドやパーティショニングを学び、効率的な環境構築を実践。
-- 資料やレビューを活用しながら操作をスムーズに習得。
-
-#### **push_swap**
-- スタックを用いた整数ソートアルゴリズムを構築。
-- 基数ソートやクイックソートの理論を実践し、最小手数のアルゴリズムを設計。
-- メモリリークを防ぐため、動的メモリ管理を最適化。
-
-#### **minitalk**
-- シグナルを使用したクライアント・サーバー通信を実装。
-- プロセス間通信の概念やエラーハンドリングの重要性を学習。
-
-
-#### **so_long**
-- MinilibXライブラリを使用し、2D迷路ゲームを開発。
-
-#### **Philosophers**
-- マルチスレッドを使用した哲学者の食事問題をシミュレーション。
-- スレッド間の競合回避（ミューテックスの活用）を実践。
-
-
-#### **minishell**
-- Bashの簡易版をC言語で実装。
-- チーム開発を経験。
-- 字句解析／構文解析によるコマンドパーサ設計
-- fork／execve／wait を用いたプロセス管理
-- pipe／dup2 によるパイプ処理とリダイレクト
-- cd、export、unset などビルトインコマンドの再現
-- sigaction を用いた Ctrl-C／SIGQUIT ハンドリング
-- GNU Readline 連携による行編集・履歴機能
-
-#### **minirt**
-- レイトレーシングを実装し、3D画像を生成。
-- ベクトル演算や光学効果の計算を使ってのレンダリング。
-  
-#### **inception**
-- Docker Composeを利用して、(Nginx、WordPress、MariaDBなど）をコンテナとして構築。
-
-
+## 🛠 Skills
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | C, C++, TypeScript, Dart, Python, JavaScript |
+| **Frontend** | Flutter, Next.js, React, Tailwind CSS |
+| **Backend** | Node.js (Express), Firebase (Firestore, Cloud Functions) |
+| **Infrastructure** | Docker, Linux (Debian), Firebase, Home Server Setup |
+| **Other** | OpenCV, YOLO, Raspberry Pi, Git |
 
 ---
 
+## 🚀 Main Projects
 
+### 📱 [NUGA](https://www.nuga.tokyo/) (iOS / Android)
+「誘いたいけど断られるのが怖い」という学生の心理的ハードルを下げるコミュニケーションアプリ。
+- **機能:** 時間マッチ、チャット、シール帳作成交換
+- **技術:** Flutter, Firebase (Firestore, Storage, FCM)
+- **役割:** デザイン、ストアリリースまで全て個人で完結。
 
+  📱 [ダウンロードはこちら](https://www.nuga.tokyo/)
+---
+### 🎓 [卒業文集アプリ](https://apps.apple.com/jp/app/%E5%8D%92%E6%A5%AD%E6%96%87%E9%9B%86/id6741571462) (iOS)
+デジタルのプロフィール帳・メッセージ交換アプリ。
+- **特徴:** Firestoreのアクセス数削減やキャッシュ優先取得など、スケーラビリティとパフォーマンスを意識した設計。将来のRDB移行を見据えたデータ構造を採用。
+- **技術:** Flutter, Firebase
+- **役割:** 企画、デザイン、ストアリリースまで全て個人で完結。
+---
+### 🏎 [PiRacer](https://apps.apple.com/jp/app/pi-racer/id6742538447) (iOS)
+円周率やネイピア数を答えさせる「ネタ」計算アプリ。
+- **技術:** Flutter
+---
+### 👁 差分検出監視システム (Image Recognition)
+インターン先のハッカソンで個人開発した、異常時のみ記録する監視システム。
+- **技術:** Python, OpenCV, YOLO
+- **実装:** 画像差分検出、物体検出、カメラ位置ズレ補正、特定色ターゲット警告機能。
+---
+### ✉️ [TimeCapsule](https://github.com/oshiro17/TimeCapsule) (Web App)
+指定日時にメールを送信するタイムカプセルサービス。
+- **技術:** Node.js, Express, SQLite, node-cron
+- **特徴:** 自宅サーバーで外部公開。ポートフォワーディングやFW設定などのインフラ構築も実施。
+---
+### 🍴 [社内会食設定アプリ](https://github.com/NakajiZaiLFC/hello-tech-jam) (Tech Jam Hackathon)
+インターン先のハッカソンでチーム開発した、チャット形式で店舗提案からポスター共有まで行うツール。
+- **技術:** Next.js, TypeScript, Tailwind CSS, Hotpepper API
+---
 
-### 📈 **GitHub ステータス**
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshiro17&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=oshiro17&theme=onedark&show_icons=true" />
-</p>
+## 🧠 Hardware & Low-layer
+- **TOYOTA × 42Tokyo 自動運転ミニカー:** Raspberry PiとOpenCVを用いた画像認識走行制御。異常値検出や安定化アルゴリズムを実装。
+- **[Avalon Web](https://oshiro17.github.io/avalon/):** 正体隠匿ゲームのブラウザ版実装。
 
-![github-user-contribution](https://user-images.githubusercontent.com/97382295/213872063-96c2e170-7ec8-4b62-9484-132c5d4bb347.svg)
+---
+## 💼 Work Experience
+### 株式会社インナーリソース | フロントエンドエンジニア (Intern)
+*2023年 — 2024年*
+研究室専用の購買管理システム「Reprua（リプルア）」の開発に従事。
+- React / TypeScript を用いたフロントエンドの実装・機能改善。
+- 大規模SaaSにおけるコンポーネント設計とチーム開発プロセスの実践。
 
+---
+## 📘 42Tokyo Curriculum (C / C++)
+計算機の根源を理解するための厳格なプロジェクト群。
+- **minishell:** Bashの再実装（プロセス制御・パース）
+- **minirt:** レイトレーシングによる3Dレンダリング
+- **Inception:** Dockerを用いたインフラ環境構築
+- **Philosophers:** マルチスレッド・ミューテックスを用いた同期処理
+- **Other:** 独自ライブラリ(Libft)、printf再実装、ソートアルゴリズム(push_swap)等
+
+---
+
+## 📫 Contact & Links
+- **Portfolio:** [oshiro17.github.io](https://oshiro17.github.io/)
+- **Twitter:** [@ora_nonoka](https://twitter.com/ora_nonoka)
+- **Mail:** nonokapiano@icloud.com
+- **Media:** [国民民主党 玉木雄一郎氏による42Tokyo潜入インタビュー出演](https://youtu.be/bxll--eVaSY?si=_-HajbQ9iXfx54gx)
