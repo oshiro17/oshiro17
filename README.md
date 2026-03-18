@@ -24,6 +24,12 @@
 
 ## 🚀 Main Projects
 
+### 📈 [Python 自動売買プログラム](https://note.com/nonokapiano/n/n9a79a7e2a890)
+Pythonを用いた資産運用の自動化プロジェクト。
+- **概要:** 開発の背景から具体的な実装、運用結果1万円の資金で月に9%の以上の利益を3ヶ月連続得ました。
+- **技術:** Python
+- **詳細:** [note：【BTC ETH】仮想通貨自動売買BOT　作ってみた](https://note.com/nonokapiano/n/n9a79a7e2a890)
+---
 ### 📱 [NUGA](https://www.nuga.tokyo/) (iOS / Android)
 「誘いたいけど断られるのが怖い」という学生の心理的ハードルを下げるコミュニケーションアプリ。
 - **機能:** 時間マッチ、チャット、シール帳作成交換
