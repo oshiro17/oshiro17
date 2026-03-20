@@ -50,7 +50,7 @@ Pythonを用いた資産運用の自動化プロジェクト。
 ---
 ### 👁 差分検出監視システム (Image Recognition)
 インターン先のハッカソンで個人開発した、異常時のみ記録する監視システム。
-- **技術:** Python, OpenCV, YOLO
+- **技術:** Python, OpenCV, YOLO（画像認識モデル）
 - **実装:** 画像差分検出、物体検出、カメラ位置ズレ補正、特定色ターゲット警告機能。
 ---
 ### ✉️ [TimeCapsule](https://github.com/oshiro17/TimeCapsule) (Web App)
@@ -82,7 +82,7 @@ Pythonを用いた資産運用の自動化プロジェクト。
 - **minirt:** レイトレーシングによる3Dレンダリング
 - **Inception:** Dockerを用いたインフラ環境構築
 - **Philosophers:** マルチスレッド・ミューテックスを用いた同期処理
-- **Other:** 独自ライブラリ(Libft)、printf再実装、ソートアルゴリズム(push_swap)等
+- **Other:** 独自c標準ライブラリ(Libft)、printf再実装、ソートアルゴリズム(push_swap)等
 
 ---
 
@@ -90,4 +90,3 @@ Pythonを用いた資産運用の自動化プロジェクト。
 - **Portfolio:** [oshiro17.github.io](https://oshiro17.github.io/)
 - **Twitter:** [@ora_nonoka](https://twitter.com/ora_nonoka)
 - **Mail:** nonokapiano@icloud.com
-- **Media:** [国民民主党 玉木雄一郎氏による42Tokyo潜入インタビュー出演](https://youtu.be/bxll--eVaSY?si=_-HajbQ9iXfx54gx)
